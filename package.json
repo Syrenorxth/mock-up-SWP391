@@ -1,0 +1,30 @@
+{
+  "name": "mock-up-full-swp391",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Mockup SWP391 - He thong Danh gia Chat luong va Quan ly Nhuan but (KPI & Royalty)",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --port=3000 --open",
+    "build": "vite build",
+    "preview": "vite preview --port=4173",
+    "lint": "tsc --noEmit"
+  },
+  "dependencies": {
+    "lucide-react": "^0.546.0",
+    "react": "^19.0.1",
+    "react-dom": "^19.0.1",
+    "react-router-dom": "^7.18.4",
+    "recharts": "^3.10.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "@types/node": "^22.14.0",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.1",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^5.9.3",
+    "vite": "^8.3.0"
+  }
+}
